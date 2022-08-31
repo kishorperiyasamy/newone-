@@ -18,5 +18,6 @@ public static void main(String[] args) {
 	v.car();
 	v.bus();
 	v.lorry();
+	v.truck();
 }
 }
